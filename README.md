@@ -1,3 +1,20 @@
+<style>
+  table {
+    width: 100%;
+  }
+  th:nth-child(1), td:nth-child(1) {
+    width: 15%;
+  }
+  th:nth-child(2), td:nth-child(2) {
+    width: 18%;
+  }
+  th:nth-child(3), td:nth-child(3) {
+    width: 30%;
+  }
+  th:nth-child(4), td:nth-child(3) {
+    width: 15%;
+  }
+</style>
 ### **性价比机场推荐|顶级机场推荐|2025年最稳机场推荐**
 
 本文旨在为广大用户提供一份2025年值得关注的“机场”（网络加速服务）推荐列表。在当今复杂的网络环境下，稳定性、速度和价格是用户选择服务时的核心考量因素。本次推荐将严格遵循这两个维度，分为两大类：
